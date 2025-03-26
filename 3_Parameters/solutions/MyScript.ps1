@@ -1,10 +1,6 @@
 param (
-    [Parameter(Mandatory = $true)]
-    [string]
-    $Name,
-
-    [int]
-    $Age
+    [ValidateScript({ Test-Path $_ }, ErrorMessage = "The file path '{0}' is not valid or does not exist.")]
+    [string]$FilePath
 )
 
-Write-Output "Hello, $Name! You are $Age years old."
+Write-Output "File Path: $FilePath"
