@@ -57,7 +57,7 @@ By the end of this module, you will be able to:
 
 ## 📂 Course Navigation
 
-- [Home](./course-overview.md)
+- [Home](./README.md)
 - [Next Module: Parameters](../2_Control_Flow/README.md)
 
 ---

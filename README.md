@@ -13,7 +13,8 @@ This course is structured to help you build foundational and advanced PowerShell
 - **Script Parameters**
 - **PowerShell Functions**
 - **Error Handling and Debugging**
-- **Working with Files**
+- **Working with Files and Web Data**
+- **PowerShell Best Practices**
 
 ## **📂 Repository Structure**
 ```

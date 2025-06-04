@@ -63,7 +63,7 @@ Each lesson includes:
 
 ## 📂 Course Navigation
 
-- [Home](./course-overview.md)
+- [Home](./README.md)
 - [Previous Module: Parameters](../3_Parameters/README.md)
 - [Next Module: Conditional Logic and Loops](../5_Error_Handling/README.md)
 
