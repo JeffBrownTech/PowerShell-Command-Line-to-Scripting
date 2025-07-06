@@ -53,6 +53,6 @@ Each lesson includes:
 
 ## 📂 Course Navigation
 
-* [Home](./README.md)
+* [Home](../README.md)
 * [Previous Module: Script Parameters](../5_Error_Handling/README.md)
 * [Next Module: TBD](../7_Art_of_Scripting/README.md)

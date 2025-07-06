@@ -56,6 +56,6 @@ Each lesson includes:
 
 ## 📂 Course Navigation
 
-* [Home](./README.md)
+* [Home](../README.md)
 * [Previous Module: Error Handling](../7_External_data/README.md)
 ---

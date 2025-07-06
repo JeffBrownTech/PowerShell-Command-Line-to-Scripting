@@ -70,7 +70,7 @@ Each lesson includes:
 
 ## 📂 Course Navigation
 
-- [Home](../README.md)
+- [Home](.../README.md)
 - [Previous Module: Script Files and Execution](../2_Control_Flow/README.md)
 - [Next Module: Functions in PowerShell](../4_Functions/README.md)
 
