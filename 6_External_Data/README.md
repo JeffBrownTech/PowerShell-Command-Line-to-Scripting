@@ -55,4 +55,4 @@ Each lesson includes:
 
 * [Home](../README.md)
 * [Previous Module: Script Parameters](../5_Error_Handling/README.md)
-* [Next Module: TBD](../7_Art_of_Scripting/README.md)
+* [Next Module: TBD](../7_Art_of_PowerShell_Scripting/README.md)

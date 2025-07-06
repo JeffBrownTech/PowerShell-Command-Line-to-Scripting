@@ -85,8 +85,8 @@ To work with Jupyter notebooks inside **VS Code**, install the following extensi
 
 ## 📂 Course Navigation
 
-- [Home](.../README.md)
-- [Next Module: Variables and Data Types](../1_Variable_and_Data_Types/README.md)
+- [Home](../README.md)
+- [Next Module: Variables and Data Types](../1_Variables_and_Data_Types/README.md)
 
 ---
 
