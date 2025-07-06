@@ -53,7 +53,7 @@ Before you start, ensure you have the following:
 
 ## **🎥 Related YouTube Series**
 This course is part of my **PowerShell: Command Line to Scripting Course** on YouTube. Check out the playlist here:  
-📺 **[YouTube Link](https://www.youtube.com/yourchannel)**
+📺 **[YouTube Link](https://www.youtube.com/playlist?list=PLrtRsknYmarykWW8O6f_x_7Ju2QahOA-Z)**
 
 ## **📬 Contact & Support**
 If you have any questions or feedback, reach out via:  
