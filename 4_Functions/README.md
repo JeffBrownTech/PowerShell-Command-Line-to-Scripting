@@ -65,7 +65,7 @@ Each lesson includes:
 
 - [Home](../README.md)
 - [Previous Module: Parameters](../3_Parameters/README.md)
-- [Next Module: Conditional Logic and Loops](../5_Error_Handling/README.md)
+- [Next Module: Error Handling](../5_Error_Handling/README.md)
 
 ---
 

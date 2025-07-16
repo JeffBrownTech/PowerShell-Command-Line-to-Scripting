@@ -66,7 +66,7 @@ Each lesson includes:
 ## 📂 Course Navigation
 
 - [Home](../README.md)
-- [Previous Module: Script Files and Execution](../1_Variables_and_Data_Types/README.md)
+- [Previous Module: Variables and Data Types](../1_Variables_and_Data_Types/README.md)
 - [Next Module: Script Parameters in PowerShell](../3_Parameters/README.md)
 
 ---
