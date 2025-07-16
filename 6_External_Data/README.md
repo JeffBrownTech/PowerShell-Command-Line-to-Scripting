@@ -54,5 +54,5 @@ Each lesson includes:
 ## 📂 Course Navigation
 
 * [Home](../README.md)
-* [Previous Module: Script Parameters](../5_Error_Handling/README.md)
-* [Next Module: TBD](../7_Art_of_PowerShell_Scripting/README.md)
+* [Previous Module: Error Handling](../5_Error_Handling/README.md)
+* [Next Module: Art of PowerShell Scripting](../7_Art_of_PowerShell_Scripting/README.md)

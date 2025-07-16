@@ -65,7 +65,7 @@ Each lesson includes:
 ## 📂 Course Navigation
 
 - [Home](../README.md)  
-- [Previous Module: Script Parameters](../4_Functions/README.md)  
+- [Previous Module: Functions](../4_Functions/README.md)  
 - [Next Module: External Data](../6_External_Data/README.md)  
 
 ---
