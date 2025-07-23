@@ -13,4 +13,4 @@ foreach ($number in $numbers)
 $numbersGreaterThanTen
 
 "Doubled:"
-$newNumbers | ForEach-Object { $_ * 2 }
+$numbersGreaterThanTen | ForEach-Object { $_ * 2 }
