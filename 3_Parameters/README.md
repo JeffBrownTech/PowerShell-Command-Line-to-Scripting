@@ -13,7 +13,6 @@ By the end of this module, you will be able to:
 - Create mandatory and optional parameters
 - Validate input using built-in attributes
 - Use switch parameters to control script behavior
-- Handle arrays and hashtables as parameter values
 - Improve usability with aliases and positional parameters
 
 ---
