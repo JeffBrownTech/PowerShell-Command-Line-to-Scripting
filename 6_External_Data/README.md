@@ -1,8 +1,8 @@
 # 🧩 PowerShell Scripting Course
 
-## Module 5: Working with External Files and APIs
+## Module 6: Working with External Files and APIs
 
-Welcome to Module 5! In this module, you'll learn how to read from and write to external files and communicate with web-based APIs using PowerShell. These skills will help you build scripts that interact with real-world data — from local logs and user lists to live data from remote servers.
+Welcome to Module 6! In this module, you'll learn how to read from and write to external files and communicate with web-based APIs using PowerShell. These skills will help you build scripts that interact with real-world data — from local logs and user lists to live data from remote servers.
 
 ---
 
