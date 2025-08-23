@@ -9,7 +9,7 @@ param (
 $users = Import-Csv -Path $FilePath
 
 # Filter for users in the "IT" department
-$itUsers = $users | Where-Object { $_.Department -eq "IT" }
+$itUsers = $users | Where-Object -Property Department -eq -Value "IT"
 
 # Display only the Username and Title properties
 $itUsers | Select-Object Username, Title, Department
